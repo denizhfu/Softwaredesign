@@ -1,0 +1,22 @@
+/Users/denizoezcan/Desktop/C-sharp/bin/Debug/netcoreapp2.1/C-sharp.deps.json
+/Users/denizoezcan/Desktop/C-sharp/bin/Debug/netcoreapp2.1/C-sharp.runtimeconfig.json
+/Users/denizoezcan/Desktop/C-sharp/bin/Debug/netcoreapp2.1/C-sharp.runtimeconfig.dev.json
+/Users/denizoezcan/Desktop/C-sharp/bin/Debug/netcoreapp2.1/C-sharp.dll
+/Users/denizoezcan/Desktop/C-sharp/bin/Debug/netcoreapp2.1/C-sharp.pdb
+/Users/denizoezcan/Desktop/C-sharp/obj/Debug/netcoreapp2.1/C-sharp.csprojAssemblyReference.cache
+/Users/denizoezcan/Desktop/C-sharp/obj/Debug/netcoreapp2.1/C-sharp.csproj.CoreCompileInputs.cache
+/Users/denizoezcan/Desktop/C-sharp/obj/Debug/netcoreapp2.1/C-sharp.AssemblyInfoInputs.cache
+/Users/denizoezcan/Desktop/C-sharp/obj/Debug/netcoreapp2.1/C-sharp.AssemblyInfo.cs
+/Users/denizoezcan/Desktop/C-sharp/obj/Debug/netcoreapp2.1/C-sharp.dll
+/Users/denizoezcan/Desktop/C-sharp/obj/Debug/netcoreapp2.1/C-sharp.pdb
+/Users/denizoezcan/Desktop/Semester 6/C-sharp/bin/Debug/netcoreapp2.1/C-sharp.deps.json
+/Users/denizoezcan/Desktop/Semester 6/C-sharp/bin/Debug/netcoreapp2.1/C-sharp.runtimeconfig.json
+/Users/denizoezcan/Desktop/Semester 6/C-sharp/bin/Debug/netcoreapp2.1/C-sharp.runtimeconfig.dev.json
+/Users/denizoezcan/Desktop/Semester 6/C-sharp/bin/Debug/netcoreapp2.1/C-sharp.dll
+/Users/denizoezcan/Desktop/Semester 6/C-sharp/bin/Debug/netcoreapp2.1/C-sharp.pdb
+/Users/denizoezcan/Desktop/Semester 6/C-sharp/obj/Debug/netcoreapp2.1/C-sharp.csprojAssemblyReference.cache
+/Users/denizoezcan/Desktop/Semester 6/C-sharp/obj/Debug/netcoreapp2.1/C-sharp.csproj.CoreCompileInputs.cache
+/Users/denizoezcan/Desktop/Semester 6/C-sharp/obj/Debug/netcoreapp2.1/C-sharp.AssemblyInfoInputs.cache
+/Users/denizoezcan/Desktop/Semester 6/C-sharp/obj/Debug/netcoreapp2.1/C-sharp.AssemblyInfo.cs
+/Users/denizoezcan/Desktop/Semester 6/C-sharp/obj/Debug/netcoreapp2.1/C-sharp.dll
+/Users/denizoezcan/Desktop/Semester 6/C-sharp/obj/Debug/netcoreapp2.1/C-sharp.pdb
