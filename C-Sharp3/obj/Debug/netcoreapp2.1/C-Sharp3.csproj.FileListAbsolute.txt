@@ -1,0 +1,11 @@
+/Users/denizoezcan/Desktop/Semester 6/C-Sharp3/bin/Debug/netcoreapp2.1/C-Sharp3.deps.json
+/Users/denizoezcan/Desktop/Semester 6/C-Sharp3/bin/Debug/netcoreapp2.1/C-Sharp3.runtimeconfig.json
+/Users/denizoezcan/Desktop/Semester 6/C-Sharp3/bin/Debug/netcoreapp2.1/C-Sharp3.runtimeconfig.dev.json
+/Users/denizoezcan/Desktop/Semester 6/C-Sharp3/bin/Debug/netcoreapp2.1/C-Sharp3.dll
+/Users/denizoezcan/Desktop/Semester 6/C-Sharp3/bin/Debug/netcoreapp2.1/C-Sharp3.pdb
+/Users/denizoezcan/Desktop/Semester 6/C-Sharp3/obj/Debug/netcoreapp2.1/C-Sharp3.csprojAssemblyReference.cache
+/Users/denizoezcan/Desktop/Semester 6/C-Sharp3/obj/Debug/netcoreapp2.1/C-Sharp3.csproj.CoreCompileInputs.cache
+/Users/denizoezcan/Desktop/Semester 6/C-Sharp3/obj/Debug/netcoreapp2.1/C-Sharp3.AssemblyInfoInputs.cache
+/Users/denizoezcan/Desktop/Semester 6/C-Sharp3/obj/Debug/netcoreapp2.1/C-Sharp3.AssemblyInfo.cs
+/Users/denizoezcan/Desktop/Semester 6/C-Sharp3/obj/Debug/netcoreapp2.1/C-Sharp3.dll
+/Users/denizoezcan/Desktop/Semester 6/C-Sharp3/obj/Debug/netcoreapp2.1/C-Sharp3.pdb
