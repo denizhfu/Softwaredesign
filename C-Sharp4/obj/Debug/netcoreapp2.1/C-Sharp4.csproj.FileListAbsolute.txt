@@ -1,0 +1,11 @@
+/Users/denizoezcan/Desktop/Softwaredesign/C-Sharp4/obj/Debug/netcoreapp2.1/C-Sharp4.csprojAssemblyReference.cache
+/Users/denizoezcan/Desktop/Softwaredesign/C-Sharp4/obj/Debug/netcoreapp2.1/C-Sharp4.csproj.CoreCompileInputs.cache
+/Users/denizoezcan/Desktop/Softwaredesign/C-Sharp4/obj/Debug/netcoreapp2.1/C-Sharp4.AssemblyInfoInputs.cache
+/Users/denizoezcan/Desktop/Softwaredesign/C-Sharp4/obj/Debug/netcoreapp2.1/C-Sharp4.AssemblyInfo.cs
+/Users/denizoezcan/Desktop/Softwaredesign/C-Sharp4/bin/Debug/netcoreapp2.1/C-Sharp4.deps.json
+/Users/denizoezcan/Desktop/Softwaredesign/C-Sharp4/bin/Debug/netcoreapp2.1/C-Sharp4.runtimeconfig.json
+/Users/denizoezcan/Desktop/Softwaredesign/C-Sharp4/bin/Debug/netcoreapp2.1/C-Sharp4.runtimeconfig.dev.json
+/Users/denizoezcan/Desktop/Softwaredesign/C-Sharp4/bin/Debug/netcoreapp2.1/C-Sharp4.dll
+/Users/denizoezcan/Desktop/Softwaredesign/C-Sharp4/bin/Debug/netcoreapp2.1/C-Sharp4.pdb
+/Users/denizoezcan/Desktop/Softwaredesign/C-Sharp4/obj/Debug/netcoreapp2.1/C-Sharp4.dll
+/Users/denizoezcan/Desktop/Softwaredesign/C-Sharp4/obj/Debug/netcoreapp2.1/C-Sharp4.pdb
