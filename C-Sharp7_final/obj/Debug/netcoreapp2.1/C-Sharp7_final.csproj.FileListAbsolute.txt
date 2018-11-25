@@ -1,0 +1,11 @@
+/Users/denizoezcan/Desktop/Softwaredesign/C-Sharp7_final/bin/Debug/netcoreapp2.1/C-Sharp7_final.deps.json
+/Users/denizoezcan/Desktop/Softwaredesign/C-Sharp7_final/bin/Debug/netcoreapp2.1/C-Sharp7_final.runtimeconfig.json
+/Users/denizoezcan/Desktop/Softwaredesign/C-Sharp7_final/bin/Debug/netcoreapp2.1/C-Sharp7_final.runtimeconfig.dev.json
+/Users/denizoezcan/Desktop/Softwaredesign/C-Sharp7_final/bin/Debug/netcoreapp2.1/C-Sharp7_final.dll
+/Users/denizoezcan/Desktop/Softwaredesign/C-Sharp7_final/bin/Debug/netcoreapp2.1/C-Sharp7_final.pdb
+/Users/denizoezcan/Desktop/Softwaredesign/C-Sharp7_final/obj/Debug/netcoreapp2.1/C-Sharp7_final.csprojAssemblyReference.cache
+/Users/denizoezcan/Desktop/Softwaredesign/C-Sharp7_final/obj/Debug/netcoreapp2.1/C-Sharp7_final.csproj.CoreCompileInputs.cache
+/Users/denizoezcan/Desktop/Softwaredesign/C-Sharp7_final/obj/Debug/netcoreapp2.1/C-Sharp7_final.AssemblyInfoInputs.cache
+/Users/denizoezcan/Desktop/Softwaredesign/C-Sharp7_final/obj/Debug/netcoreapp2.1/C-Sharp7_final.AssemblyInfo.cs
+/Users/denizoezcan/Desktop/Softwaredesign/C-Sharp7_final/obj/Debug/netcoreapp2.1/C-Sharp7_final.dll
+/Users/denizoezcan/Desktop/Softwaredesign/C-Sharp7_final/obj/Debug/netcoreapp2.1/C-Sharp7_final.pdb
