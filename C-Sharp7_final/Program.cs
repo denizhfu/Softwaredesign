@@ -4,30 +4,28 @@ namespace C_Sharp7_final
 {
     class Program
     {
-
         static void Main(string[] args)
         {
-            bool continuequiz = false;
-            while (!continuequiz)
+            while (true)
             {
                 Quizelement.showQuiz();
-                Console.Write("Do you want to continue the quiz? Yes/No. || To add your own Questions type add" + Environment.NewLine );
-
-                if (Console.ReadLine() == "add")
-                {
-                    Quizelement.NewUserQuestion();
-                    continuequiz = true;
+                Console.WriteLine("Do you want to continue the quiz? Yes/No. || To add your own Questions type add");
+                string input = Console.ReadLine();
+                
+                switch (input) {
+                    case "add":
+                        Quizelement.NewUserQuestion();
+                        break;
+                    case "No":
+                        return; // option 1
+                        Environment.Exit(0); // option 2
+                        // option 3 : doch eine Laufbedingung und diese hier auf false setzen
                 }
-                else if (Console.ReadLine() == "Yes")
-                {
-                    continuequiz = true;
-                }
-                else{ continuequiz=false;}
             }
         }
 
       static void showAllQuestions(){
-            
-                }
+    
+      }
     }
 }
