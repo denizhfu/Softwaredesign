@@ -1,0 +1,11 @@
+/Users/denizoezcan/Desktop/Softwaredesign/C-Sharp8/bin/Debug/netcoreapp2.1/C-Sharp8.deps.json
+/Users/denizoezcan/Desktop/Softwaredesign/C-Sharp8/bin/Debug/netcoreapp2.1/C-Sharp8.runtimeconfig.json
+/Users/denizoezcan/Desktop/Softwaredesign/C-Sharp8/bin/Debug/netcoreapp2.1/C-Sharp8.runtimeconfig.dev.json
+/Users/denizoezcan/Desktop/Softwaredesign/C-Sharp8/bin/Debug/netcoreapp2.1/C-Sharp8.dll
+/Users/denizoezcan/Desktop/Softwaredesign/C-Sharp8/bin/Debug/netcoreapp2.1/C-Sharp8.pdb
+/Users/denizoezcan/Desktop/Softwaredesign/C-Sharp8/obj/Debug/netcoreapp2.1/C-Sharp8.csprojAssemblyReference.cache
+/Users/denizoezcan/Desktop/Softwaredesign/C-Sharp8/obj/Debug/netcoreapp2.1/C-Sharp8.csproj.CoreCompileInputs.cache
+/Users/denizoezcan/Desktop/Softwaredesign/C-Sharp8/obj/Debug/netcoreapp2.1/C-Sharp8.AssemblyInfoInputs.cache
+/Users/denizoezcan/Desktop/Softwaredesign/C-Sharp8/obj/Debug/netcoreapp2.1/C-Sharp8.AssemblyInfo.cs
+/Users/denizoezcan/Desktop/Softwaredesign/C-Sharp8/obj/Debug/netcoreapp2.1/C-Sharp8.dll
+/Users/denizoezcan/Desktop/Softwaredesign/C-Sharp8/obj/Debug/netcoreapp2.1/C-Sharp8.pdb
