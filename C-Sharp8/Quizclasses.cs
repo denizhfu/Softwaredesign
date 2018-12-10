@@ -7,16 +7,18 @@ namespace C_Sharp8
     class QuizSingle : Quizelement
     {
         public int correctAnswer;
+        
+        // Constructor von variablen trennen macht es sofort ersichtlich
         public QuizSingle(string question, string[] answer, int correct) => (Question, Answer, correctAnswer) = (question, answer, correct);
 
         public static void AnswerQuizSingle()
         {
-
+            
             List<QuizSingle> listofQuizelements = new List<QuizSingle>();
             listofQuizelements.AddRange(new List<QuizSingle>{
             new QuizSingle("Wer ist Kanzler?", new string[]{"Merkel","Obama","Trump","Putin"},1)
         });
-
+            // var vermeiden stattdessen Datentyp definieren. Verhindert missverständnisse
             foreach (var questionitem in listofQuizelements)
             {
                 Console.WriteLine(questionitem.Question);
