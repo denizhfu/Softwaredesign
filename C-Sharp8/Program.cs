@@ -17,7 +17,7 @@ namespace C_Sharp8
 
         static void Main(string[] args)
         {
-
+            // ChooseQuestionType als spielstart, anders bennennennennen
             Quizelement.ChooseQuestionType();
 
         }
