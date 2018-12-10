@@ -17,7 +17,7 @@ namespace C_Sharp8
 
         public static void ChooseQuestionType()
         {
-            Console.WriteLine("Which type of question do you choose?");
+            Console.WriteLine("Which type of question do you choose? Type: QuizSingle || QuizMultiple || QuizBinary || QuizGuess || QuizFree");
             string type = Console.ReadLine();
 
             if (type == "QuizSingle")
