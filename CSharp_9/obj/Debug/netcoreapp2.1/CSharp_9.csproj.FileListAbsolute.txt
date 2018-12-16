@@ -1,0 +1,11 @@
+/Users/denizoezcan/Desktop/Softwaredesign/CSharp_9/obj/Debug/netcoreapp2.1/CSharp_9.csprojAssemblyReference.cache
+/Users/denizoezcan/Desktop/Softwaredesign/CSharp_9/obj/Debug/netcoreapp2.1/CSharp_9.csproj.CoreCompileInputs.cache
+/Users/denizoezcan/Desktop/Softwaredesign/CSharp_9/obj/Debug/netcoreapp2.1/CSharp_9.AssemblyInfoInputs.cache
+/Users/denizoezcan/Desktop/Softwaredesign/CSharp_9/obj/Debug/netcoreapp2.1/CSharp_9.AssemblyInfo.cs
+/Users/denizoezcan/Desktop/Softwaredesign/CSharp_9/bin/Debug/netcoreapp2.1/CSharp_9.deps.json
+/Users/denizoezcan/Desktop/Softwaredesign/CSharp_9/bin/Debug/netcoreapp2.1/CSharp_9.runtimeconfig.json
+/Users/denizoezcan/Desktop/Softwaredesign/CSharp_9/bin/Debug/netcoreapp2.1/CSharp_9.runtimeconfig.dev.json
+/Users/denizoezcan/Desktop/Softwaredesign/CSharp_9/bin/Debug/netcoreapp2.1/CSharp_9.dll
+/Users/denizoezcan/Desktop/Softwaredesign/CSharp_9/bin/Debug/netcoreapp2.1/CSharp_9.pdb
+/Users/denizoezcan/Desktop/Softwaredesign/CSharp_9/obj/Debug/netcoreapp2.1/CSharp_9.dll
+/Users/denizoezcan/Desktop/Softwaredesign/CSharp_9/obj/Debug/netcoreapp2.1/CSharp_9.pdb

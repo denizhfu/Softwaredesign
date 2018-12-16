@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/denizoezcan/Desktop/Softwaredesign/CSharp_9/CSharp_9.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
