@@ -1,1 +1,43 @@
-{"Question":"Wer ist Kanzler?","Answers":["Merkel","Obama","Trump","Putin"]}
+[
+  {
+    "Type": "Single",
+    "Question": "Wer ist Kanzler?",
+    "Answers": [
+      "Merkel",
+      "Obama",
+      "Trump",
+      "Putin"
+    ]
+  },
+  {
+    "Type": "Binary",
+    "Question": "War Deutschland schon einmal Weltmeister ?",
+    "Answers": [
+      "Ja"
+    ]
+  },
+  {
+    "Type": "Multi",
+    "Question": "Wer war schonmal Weltmeister?",
+    "Answers": [
+      "Deutschland",
+      "Sibirien",
+      "England",
+      "Norwegen"
+    ]
+  },
+  {
+    "Type": "Free",
+    "Question": "Wer ist Bundeskanzler?",
+    "Answers": [
+      "Merkel"
+    ]
+  },
+  {
+    "Type": "Guess",
+    "Question": "Wie viele Einwohner hat Deutschland?",
+    "Answers": [
+      "83000000"
+    ]
+  }
+]
