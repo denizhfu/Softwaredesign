@@ -1,0 +1,11 @@
+/Users/denizoezcan/Desktop/Softwaredesign/C-Sharp11/bin/Debug/netcoreapp2.1/C-Sharp11.deps.json
+/Users/denizoezcan/Desktop/Softwaredesign/C-Sharp11/bin/Debug/netcoreapp2.1/C-Sharp11.runtimeconfig.json
+/Users/denizoezcan/Desktop/Softwaredesign/C-Sharp11/bin/Debug/netcoreapp2.1/C-Sharp11.runtimeconfig.dev.json
+/Users/denizoezcan/Desktop/Softwaredesign/C-Sharp11/bin/Debug/netcoreapp2.1/C-Sharp11.dll
+/Users/denizoezcan/Desktop/Softwaredesign/C-Sharp11/bin/Debug/netcoreapp2.1/C-Sharp11.pdb
+/Users/denizoezcan/Desktop/Softwaredesign/C-Sharp11/obj/Debug/netcoreapp2.1/C-Sharp11.csprojAssemblyReference.cache
+/Users/denizoezcan/Desktop/Softwaredesign/C-Sharp11/obj/Debug/netcoreapp2.1/C-Sharp11.csproj.CoreCompileInputs.cache
+/Users/denizoezcan/Desktop/Softwaredesign/C-Sharp11/obj/Debug/netcoreapp2.1/C-Sharp11.AssemblyInfoInputs.cache
+/Users/denizoezcan/Desktop/Softwaredesign/C-Sharp11/obj/Debug/netcoreapp2.1/C-Sharp11.AssemblyInfo.cs
+/Users/denizoezcan/Desktop/Softwaredesign/C-Sharp11/obj/Debug/netcoreapp2.1/C-Sharp11.dll
+/Users/denizoezcan/Desktop/Softwaredesign/C-Sharp11/obj/Debug/netcoreapp2.1/C-Sharp11.pdb
